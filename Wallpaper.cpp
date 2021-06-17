@@ -13,7 +13,7 @@ int main() {
 		counter = 0;
 	}
 	
-    std::string s = "C:\\Users\\ismai\\Downloads\\waves\\frame_"+std::to_string(counter)+"_delay-0.1s.gif";
+    std::string s = "C:\\Users\\<YOUR SYSTEM USERNAME HERE>\\Downloads\\waves\\frame_"+std::to_string(counter)+"_delay-0.1s.gif";
 	
     SystemParametersInfoA(SPI_SETDESKWALLPAPER, 0, (PVOID*)s.c_str(), SPIF_SENDCHANGE);
 	
