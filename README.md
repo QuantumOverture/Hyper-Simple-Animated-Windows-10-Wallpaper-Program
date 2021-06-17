@@ -15,6 +15,8 @@ This was a just a fun little side project but if I guess I want to work on this 
 - https://stackoverflow.com/questions/11365850/run-c-in-command-prompt-windows
 - http://www.codebind.com/cprogramming/install-mingw-windows-10-gcc/
 - https://stackoverflow.com/questions/2252372/how-do-you-make-a-program-sleep-in-c-on-win-32
+- https://stackoverflow.com/questions/12090472/how-do-i-center-an-image-in-the-readme-md-on-github 
 
-
-
+<p align="center">
+  <img src="./demo.gif" />
+</p>
